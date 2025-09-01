@@ -2,8 +2,8 @@
 
 ## Adaptive Language-Aware Image Reflection Removal Network (IJCAI'2025🔥)
 
-> **Paper:** [Link to Paper](https://arxiv.org/abs/xxxx.xxxxx)  
-> **Supplementary Material:** [PDF](https://arxiv.org/src/xxxx.xxxxxv1/anc/supplementary.pdf) 
+> **Paper:** <a href="https://arxiv.org/abs/xxxx.xxxxx" target="_blank">Link to Paper</a>  
+> **Supplementary Material:** <a href="https://arxiv.org/src/xxxx.xxxxxv1/anc/supplementary.pdf" target="_blank">PDF</a>
 
 >**Abstract:** Existing image reflection removal methods struggle to handle complex reflections. Accurate language descriptions can help the model understand the image content to remove complex reflections. However, due to blurred and distorted interferences in reflected images,  machine-generated language descriptions of the image content are often inaccurate, which harms the performance of language-guided reflection removal.  To address this, we propose the Adaptive Language-Aware Network (ALANet) to remove reflections even with inaccurate language inputs. Specifically, ALANet integrates both filtering and optimization strategies. The filtering strategy reduces the negative effects of language while preserving its benefits, whereas the optimization strategy enhances the alignment between language and visual features. ALANet also utilizes language cues to decouple specific layer content from feature maps, improving its ability to handle complex reflections. To evaluate the model's performance under complex reflections and varying levels of language accuracy, we introduce the Complex Reflection and Language Accuracy Variance (CRLAV) dataset. Experimental results demonstrate that ALANet surpasses state-of-the-art methods for image reflection removal.
 
