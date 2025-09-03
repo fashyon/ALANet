@@ -1,6 +1,6 @@
 # ALANet
 
-## Adaptive Language-Aware Image Reflection Removal Network (IJCAI'2025🔥)
+## Adaptive Language-Aware Image Reflection Removal Network (IJCAI 2025)🔥
 
 > **Paper:** [Link to Paper](https://arxiv.org/abs/xxxx.xxxxx)  
 > **Supplementary Material:** [PDF](https://arxiv.org/src/xxxx.xxxxxv1/anc/supplementary.pdf)
