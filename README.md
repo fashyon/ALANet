@@ -52,9 +52,10 @@ project_root/
 ```
 
 # 📂 Dataset
-We also release the **CRLAV dataset** used in our paper:
+We also release the following resources used in our paper:
 
-- **CRLAV Dataset:** [Download Link](https://pan.baidu.com/s/1Mv_TORQk9Ig2ifhQNZMTVQ?pwd=1314)
+- **CRLAV Dataset:** [Download Link](https://pan.baidu.com/s/1Mv_TORQk9Ig2ifhQNZMTVQ?pwd=1314)  
+- **Captions of Public Datasets:** [Download Link](https://pan.baidu.com/s/1zYNpBXNs1i2NUj17KKYy8w?pwd=1314)
 
 # 🚀Getting Started
 
